@@ -334,7 +334,7 @@ namespace ElementsDock
         private void buttonHall_Click(object sender, EventArgs e)
         {
             verBut2 = 1;
-            buttonHall.Enabled = false;//ей
+            buttonHall.Enabled = false;//ей7
             buttonFifty.Enabled = false;
             buttonCall.Enabled = false;
             FormHall callHall = new FormHall();
